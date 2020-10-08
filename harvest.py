@@ -61,7 +61,7 @@ def make_melon_types():
 def print_pairing_info(melon_types):
     """Prints information about each melon type's pairings."""
     #Muskmelon pairs with
-    #- mint
+    #- mint #
     # Fill in the rest
     for melon in melon_types:
         print(f"{melon.name} pairs with {pairing}")
